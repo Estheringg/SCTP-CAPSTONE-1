@@ -1,4 +1,3 @@
-# SCTP-CAPSTONE-1
 # Animal Shelter Dashboard (SCTP CAPSTONE 1)
 
 ### A study of the most popular breeds and species abandoned and how we can propose control 
